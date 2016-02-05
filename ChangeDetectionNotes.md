@@ -35,7 +35,7 @@ When we mention the application state, we need to make a distinction between sev
   is bound to have some internal state, for example a open flag to indicate that the dropdown is opened
 * Global UI State: This state defines the way the user configured the UI: 
   which language is active, which charts are visible, etc.
-*Application Data State: This state is the data of the application, 
+* Application Data State: This state is the data of the application, 
   for example a list of countries passed to a dropdown
 
 Different strategies might be needed for controlling different types of state. Let's see how the Flux Architecture can help with that.
