@@ -9,4 +9,9 @@ Angular, by means of change detection, is responsible for reflecting the state o
 
 The framework does it automatically on every VM turn.
 
+Event bindings, which can be added using the () syntax, can be used to capture 
+a browser event execute some function on a component. 
+ So they trigger the first phase.
 
+Property bindings, which can be added using the [] syntax, 
+should be used only for reflecting the state of the model in the view.
