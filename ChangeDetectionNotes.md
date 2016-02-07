@@ -1,4 +1,35 @@
 
+# Slide 1
+* Why Angular2?
+* Why I'm here?
+* What I'll fucus on? Angular/Application Interface
+* Forget Angular1 While Learning Angular2
+
+# Slide 2
+* Angular2 is Conceptually Simple
+* Angular Prerequisites 
+* Angular2 is Reactive
+
+# Slide 3
+* Application Data Model
+* Document Object Model
+* Component Object Model
+
+# Slide 4
+* Model Change as a result of Events
+* Framework Reacts by Creating DOM
+* Browser Paints at the End
+
+# Slide 5
+* VM Turn
+
+# Slide 6
+* ZoneJS
+
+
+
+
+
 Angular 2 separates:
 * updating the application model (component's state), and
 * reflecting the state of the model (component) in the view 
