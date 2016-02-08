@@ -10,9 +10,14 @@
 * Angular Prerequisites 
 * Angular2 is Reactive -- Like a spreadsheet
 * Elements of Reactivity
-    * Application Object Model
+    * Application Data Object Model
     * Component Object Model
     * DOM/Custom Events
+* Object Models
+    * Application Domain Object Model
+    * Component Object Model
+    * Document Object Model
+    * Change Detection Object Model
 
 # Slide 3
 * Application Data Model
