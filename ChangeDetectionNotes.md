@@ -8,7 +8,11 @@
 # Slide 2
 * Angular2 is Conceptually Simple
 * Angular Prerequisites 
-* Angular2 is Reactive
+* Angular2 is Reactive -- Like a spreadsheet
+* Elements of Reactivity
+    * Application Object Model
+    * Component Object Model
+    * DOM/Custom Events
 
 # Slide 3
 * Application Data Model
